@@ -261,7 +261,7 @@ var common = {
                 _0x2c5497 = document['createElement'](_0x4a280d(0x1a1));
             _0x2c5497['value'] = _0x2ef763, document['body'][_0x4a280d(0x254)](_0x2c5497), _0x2c5497[_0x4a280d(0x192)](), _0x2c5497[_0x4a280d(0x1cc)](0x0, 0xf423f);
             try {
-                document['execCommand'](_0x4a280d(0x272)), alert('[' + _0x2ef763 + ']\x20蹂듭궗�섏뿀�듬땲��.');
+                document['execCommand'](_0x4a280d(0x272)), alert('[' + _0x2ef763 + ']\x20복사했습니다.');
             } catch (_0x43d912) {
                 alert(_0x43d912);
             }
